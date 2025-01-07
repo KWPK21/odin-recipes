@@ -1,0 +1,34 @@
+.customheading{
+    font-size: 48px;
+}
+.modifiedheading{
+    width: fit-content;
+   margin: 0 auto;
+}
+.laphatthote, .poneyaygyi, .poneyaygyirice {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 8px;
+    padding: 20px;
+    text-align: center;
+}
+.laphatthote{
+    background-color: green;
+   
+}
+
+.poneyaygyi{
+
+    background-color: aquamarine;
+}
+
+.poneyaygyirice{
+
+    background-color: grey;
+}
+
+.text{
+    color: white;
+   
+}
